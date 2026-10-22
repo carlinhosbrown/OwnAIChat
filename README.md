@@ -8,7 +8,7 @@ Esta entrega incluye pruebas locales. No se ha desplegado ni verificado en una c
 
 ## Deploy to Cloudflare
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/TU_USUARIO/ownaichat)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/carlinhosbrown/ownaichat)
 
 **El enlace anterior es una plantilla.** El ZIP no tiene un repositorio público asociado. Antes de usar o compartir el botón, sube el contenido de esta carpeta a un repositorio público de GitHub o GitLab y sustituye su URL:
 
